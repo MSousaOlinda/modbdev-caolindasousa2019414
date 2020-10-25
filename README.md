@@ -3,7 +3,7 @@
 ## Student Olinda Suely Pena de Moraes de Sousa
 ### Student ID 2019414
 
-#### This mobile project was constructed following the lecture2s material and some research on internet.
+#### This mobile project was constructed following the lectures material and some research on internet.
 
 *  Fist step: 
 
@@ -60,3 +60,5 @@
 	Html layot and conexion
 
 
+
+# The project was deployed on Herouko (https://fast-lake-36482.herokuapp.com/tabs/episodes)
