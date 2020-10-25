@@ -2,7 +2,7 @@
 
 ## Developed by Olinda Suely Pena de Moraes de Sousa
 
-#### This mobile project was constructed following the lectures material and some research on internet.
+#### This mobile project was constructed following the lectures material and some internet research.
 
 *  Fist step: 
 
