@@ -1,7 +1,6 @@
-# Mobile Developemnt - Braking Bad API CA - CCT College
+# Braking Bad API
 
-## Student Olinda Suely Pena de Moraes de Sousa
-### Student ID 2019414
+## Developed by Olinda Suely Pena de Moraes de Sousa
 
 #### This mobile project was constructed following the lectures material and some research on internet.
 
